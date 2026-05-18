@@ -1,0 +1,12 @@
+{
+  "DisabledOU": "OU=Disabled Users,DC=contoso,DC=com",
+  "PrivilegedGroups": [
+    "Domain Admins",
+    "Enterprise Admins",
+    "Schema Admins",
+    "Administrators",
+    "Account Operators",
+    "Backup Operators",
+    "Server Operators"
+  ]
+}
