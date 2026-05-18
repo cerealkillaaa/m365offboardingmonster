@@ -1,0 +1,9 @@
+Logs/
+*.log
+*.txt
+.vscode/
+.DS_Store
+Thumbs.db
+config.json
+*.cred
+*.clixml
